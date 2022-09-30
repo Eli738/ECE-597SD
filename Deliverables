@@ -1,0 +1,6 @@
+Dilverables that we will be providing:
+
+- Calibrate thermal cameras
+- Research visual attacks on light camers and map those attacks to thermal cameras
+- Implement image processing techniques to launch visual attacks
+- Quantify the stealthiness of these attacks
